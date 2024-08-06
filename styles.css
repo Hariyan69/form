@@ -84,7 +84,7 @@ form input{
 }
 @media screen and (max-width:600px) {
     .login{
-        width: 600px;
+        width: 480px;
         height: 1300px;
         display: flex;
         flex-direction: column;
