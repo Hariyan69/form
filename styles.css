@@ -126,6 +126,11 @@ form input{
         background-image: url(bg.png);
         margin-top:px;
         background-position: 50% 50%;
+         margin-top:10px;
+        background-position:center;
+        object-fit: cover;
+        background-size: cover;
+        
     }
     .form-container form{
         display: flex;
