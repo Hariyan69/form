@@ -184,8 +184,7 @@ form input{
     }
     .form-container p{
         margin-top: 20px;
-        width: 200px
-        font-size: 6px !important;
+        font-size: 6px;
         
     }
 }
